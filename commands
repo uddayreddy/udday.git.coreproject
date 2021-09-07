@@ -1,0 +1,10 @@
+git commands 
+git init
+ls
+ls -a
+ls -l
+touch 
+git status
+git add .
+git commit -m "label"
+git push
